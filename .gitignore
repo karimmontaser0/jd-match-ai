@@ -1,0 +1,9 @@
+# Environments
+.env
+venv/
+env/
+
+# Reflex specific
+.web/
+__pycache__/
+*.db

@@ -19,8 +19,7 @@ Follow these steps to run the project locally on your machine:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/karimmontaser0/jd-match-ai.git](https://github.com/karimmontaser0/jd-match-ai.git)
-cd jd-match-ai
+git clone https://github.com/karimmontaser0/jd-match-ai.git
 ```
 
 ### 2. Install dependencies
@@ -47,4 +46,4 @@ To see JD-Match in action, check out the video demo on my personal portfolio:
 👉 **[View JD-Match Demo](https://karimmontaser0.github.io/My_Portfolio/)**
 
 ## 🤝 Contact
-For any questions or opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/karim-montaser).
+For any questions or opportunities, feel free to reach out via [LinkedIn](Https://www.linkedin.com/in/karim-montaser-bb608a313).
